@@ -1,6 +1,7 @@
 title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://mueezealmushabbir.github.io/"
+# url: "https://ankitsultana.com"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
